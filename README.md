@@ -1,2 +1,2 @@
-# Smart_contracts_NFTs
-Smart-contracts for upload NFTs in Blockchain Ethereum to Opensea.
+# Smart_contract_NFTs
+Smart-contract for upload NFTs in Blockchain Ethereum to Opensea.
